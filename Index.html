@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <title>The Fragment Puzzler: Reassembling Cloud Data Shards (Image)</title>  
+    <style>
+    body { font-family: sans-serief; text-align: center; padding: 20px; background-color: #f8f5f5;}
+  #fragment-container {
+    display: grid;
+    grid-template-columns:repeat(5, 50px);
+    width: 100px;
+    height:100px;
+    margin: 10px auto;
+    border: 2px solid #e62626;
+    box-shadow: 0 4px 8px rgba(15, 11, 11, 0.3);
+  }
+  shard { width: 50px; 
+    height: 50px; 
+    border: 1px solid rgba(15, 11, 11, 0.3);
+     box-sizing: border-box;
+      line-height: 20px; 
+      font-size: 10px; 
+      color: #f8f5f5;
+       opacity: 0.8;
+     } 
+     button { padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #007bff; color: white; border: none; border-radius: 5px; } 
+     button:hover { background-color: #e5eef7; }
+      .status { margin-top: 20px; font-weight: bold; }
+
+
+</style>   
+ </head>
+  <body>
+    <h1>Fragment Puzzler: Visual Verification</h1>
+    <div id="fragment-container"> 
+
+    </div> 
+    <button onclick="simulateAssembly()">Reassemble Data Shards</button>
+     <div class="status" id="status-message">Ready to assemble...</div> <script src="script.js"></script>
+  </body>
+      
+  
+</html>
