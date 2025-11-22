@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wLMKZac9)  
-
 # The Fragment Puzzler: Reassembling Cloud Data Shards (Image)                                           
 ## Mission:              
 Cloud storage breaks files into tiny 'shards' for efficiency. This system analyzes thousands of mixed-up data fragments and figures out which piece fits where, like a digital jigsaw puzzle.                      
@@ -29,6 +27,6 @@ The ideal MVP then does a routine check to see whether each fragment is in the m
 
 
 ### Business Scope and Impact                                                                                                                                             
-There are many images arcoss cloud which are blurred or have the files that are corrupted that causes them to lose their quality. Our MVP will be able to put together an end-to-end meaningful image from the isolated fragments with the usage of metadata. A meaningful image is one that posses clarity and achieving that would greatly improve the speed and efficiency of any field relying on a cloud to store data.
+There are many images arcoss cloud which are blurred or have the files that are corrupted that causes them to lose their quality. Our MVP will be able to put together an end-to-end meaningful image from the isolated fragments with the usage of metadata. A meaningful image is one that posses clarity and achieving that would greatly improve the speed and efficiency of any field relying on a cloud to store data, thus, it has a great scope in any business sphere.
 
-It can be applicable in the fields of Cyber Security, Satellite Image Processing, Data Recovery Labs, Government Law Enforcement and other such provisions to achieve more efficiency and have less room for errors. This will greatly impact out ability to extract information from images.
+It will still be most applicable in the fields of Cyber Security, Satellite Image Processing, Data Recovery Labs and Government Law Enforcement as such provisions require more efficiency and have tolerate less errors in their information.
